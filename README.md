@@ -22,7 +22,17 @@ This portfolio highlights selected projects I’ve worked on.
 
 ---
 
-### 2. Luminescent Solar Concentrator (LSC) Heat Sink Design
+### 2. Chest Supported Row (CAD)
+![Chest Supported Row]("https://github.com/user-attachments/assets/8ace7913-90ea-4dbb-a190-867f64bce139>)  
+*A CAD model of a chest supported t-bar row, showcasing structural design and ergonomic considerations.*  
+
+- Designed in Siemens NX  
+- Includes part and assembly files  
+- Focused on adjustability and functionality
+
+👉 [rayma_chest_supported_row.pdf](https://github.com/user-attachments/files/21992014/rayma_chest_supported_row.pdf)  
+
+### 3. Luminescent Solar Concentrator (LSC) Heat Sink Design
 ![Heat Sink CAD](https://github.com/user-attachments/assets/ddd85b5e-3d57-42de-9dd5-4343c79454e4)  
 *Thermal management system for photovoltaic cells in a luminescent solar concentrator (LSC) array.*  
 
