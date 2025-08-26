@@ -23,7 +23,7 @@ This portfolio highlights selected projects I’ve worked on.
 ---
 
 ### 2. Chest Supported Row (CAD)
-![Chest Supported Row]("https://github.com/user-attachments/assets/8ace7913-90ea-4dbb-a190-867f64bce139>)  
+![Chest Supported Row](https://github.com/user-attachments/assets/8ace7913-90ea-4dbb-a190-867f64bce139) 
 *A CAD model of a chest supported t-bar row, showcasing structural design and ergonomic considerations.*  
 
 - Designed in Siemens NX  
@@ -48,6 +48,6 @@ This portfolio highlights selected projects I’ve worked on.
 ## 📫 Contact
 - [LinkedIn](https://www.linkedin.com/in/raymond-maney/)  
 - [GitHub](https://github.com/maneyr)  
-- Email: maneyr@rpi.edu
+- [Email](mailto:maneyr@rpi.edu)
 
 ---
