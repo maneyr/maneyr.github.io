@@ -19,7 +19,8 @@ This portfolio highlights selected projects I’ve worked on.
 - Integrated ultrasonic sensors for landing and object avoidance
 - Developed glove with flex sensors that controlled 4 2 axis fingers
 
-👉 [Design Build Logs] [Drone Project.pdf](https://github.com/user-attachments/files/32362784/Drone.Project.pdf)
+👉 [Design Build Logs] [Drone Project(1).pdf](https://github.com/user-attachments/files/32363168/Drone.Project.1.pdf)
+
 *The documentation showcases the design decisions that went into the drone and some of the lessons learned during the process*
 
 ### Custom PCB Flight Controller
