@@ -12,7 +12,7 @@ This portfolio highlights selected projects I’ve worked on.
 ## 🔧 Projects
 
 ### Long Range Autonomous Drone
-<img width="4280" height="3416" alt="IMG_1974" src="https://github.com/user-attachments/assets/141ad13c-eb98-4c5b-b632-01a14668e4ba" />
+<img width="1220" height="880" alt="IMG_1974" src="https://github.com/user-attachments/assets/141ad13c-eb98-4c5b-b632-01a14668e4ba" />
 *A 8 inch quadcopter drone with object avoidance sensors and gesture controlled grabber mechanism.
 
 - Designed in Siemens NX and validated in Simscale and FreeFEM
