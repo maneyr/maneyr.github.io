@@ -1,84 +1,131 @@
-# maneyr.github.io
-Engineering Portfolio
+<h1 align="center">Raymond Maney</h1>
+<p align="center">
+  <strong>Mechanical & Aeronautical Engineering Student</strong><br>
+  Aircraft design and manufacturing · Gym equipment design
+</p>
 
-# Hello, I'm Raymond Maney
-
-Mechanical and Aeronautical engineering student with interests in Aircraft design and manufacturing. 
-I'm also interested in designing and building gym equipment.
-This portfolio highlights selected projects I’ve worked on.
+<p align="center">
+  <a href="https://www.linkedin.com/in/raymond-maney/">LinkedIn</a> ·
+  <a href="https://github.com/maneyr">GitHub</a> ·
+  <a href="mailto:maneyr@rpi.edu">Email</a>
+</p>
 
 ---
 
-## 🔧 Projects
+## About
+
+I'm a mechanical and aeronautical engineering student interested in aircraft design and manufacturing, and in designing and building gym equipment. This portfolio highlights selected projects that I have worked on or am currently working on. These designs are always chaging and evolving as I learn more. I am always open to any suggestions or feedback.
+
+## Projects
+
+| Project | Focus | Tools |
+|---|---|---|
+| [Long Range Autonomous Drone](#long-range-autonomous-drone) | Aircraft design, sensors, controls | Siemens NX, SimScale, 3D Printing, ESP32, Arduino IDE |
+| [Custom PCB Flight Controller](#custom-pcb-flight-controller) | Electronics design | KiCad, EasyEDA |
+| [Electric Assisted Pull Up Tower](#electric-assisted-pull-up-tower-in-development) | Fitness equipment, computer vision | Blender, Siemens NX, Ansys FEM, Python (In Development |
+| [LSC Heat Sink Design](#luminescent-solar-concentrator-lsc-heat-sink-design) | Thermal management | Siemens NX, Excel, heat transfer analysis |
+| [Osteoarthritis Wrist Brace](#osteoarthritis-wrist-brace) | Biomedical device, embedded UI | Arduino IDE, LTSpice |
+| [Chest Supported Row](#chest-supported-row-cad) | Fitness equipment CAD | Siemens NX |
+
+---
 
 ### Long Range Autonomous Drone
-<img width="1220" height="880" alt="IMG_1974" src="https://github.com/user-attachments/assets/141ad13c-eb98-4c5b-b632-01a14668e4ba" />
-*A 8 inch quadcopter drone with object avoidance sensors and gesture controlled grabber mechanism.
 
-- Designed in Siemens NX and validated in Simscale and FreeFEM
-- Integrated ultrasonic sensors for landing and object avoidance
-- Developed glove with flex sensors that controlled 4 2 axis fingers
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/141ad13c-eb98-4c5b-b632-01a14668e4ba" width="700" alt="8 inch quadcopter drone">
+  <br><em>8-inch quadcopter with obstacle avoidance sensors and a gesture-controlled grabber</em>
+</p>
 
-👉 [Design Build Logs] [Drone Project(1).pdf](https://github.com/user-attachments/files/32363168/Drone.Project.1.pdf)
+- Designed in **Siemens NX** and validated with **SimScale** and **FreeFEM**
+- Integrated **ultrasonic sensors** for landing and obstacle avoidance
+- Built a **flex-sensor glove** that controls four 2-axis fingers on the grabber
 
-*The documentation showcases the design decisions that went into the drone and some of the lessons learned during the process*
+📄 **[Design & Build Log (PDF)](https://github.com/user-attachments/files/32363168/Drone.Project.1.pdf)**: design decisions and lessons learned
+
+---
 
 ### Custom PCB Flight Controller
-<img width="1222" height="880" alt="Vortex_H743" src="https://github.com/user-attachments/assets/9f13e74a-1ac4-442c-9a69-900105db08dd" />
-*Custom H743 Flight Controller
-<img width="1248" height="877" alt="Servo_PCB" src="https://github.com/user-attachments/assets/48020d0b-1fbb-4a84-9bff-9294fae76e5b" />
-*Custom Servo Board
- 
 
-- Designed in KiCad
-- Integrated features for Debugging and test points
-- Added 9V rail for Analog VTX
-- Designed separate board for servo connections
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/9f13e74a-1ac4-442c-9a69-900105db08dd" width="420" alt="Custom H743 flight controller"><br>
+      <em>Custom H743 flight controller</em>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/48020d0b-1fbb-4a84-9bff-9294fae76e5b" width="420" alt="Custom servo board"><br>
+      <em>Custom servo board</em>
+    </td>
+  </tr>
+</table>
 
-👉 [Design Build Logs] [PCB Project.pdf](https://github.com/user-attachments/files/32362372/PCB.Project.pdf)
-*The documentation showcases the design decisions that went into the PCB*
+- Designed in **KiCad**
+- Added debugging features and test points
+- Included a **9V rail** for an analog VTX
+- Designed a **separate board** for servo connections
 
-### Electric Assisted Pull up Tower (In Development)
-*This project is currently ongoing so I won't be posting the details of the project yet)
+📄 **[Design & Build Log (PDF)](https://github.com/user-attachments/files/32362372/PCB.Project.pdf)**: design decisions behind the PCB
 
+---
 
-### Standard Lat Pulldown Machine (CAD)
-![Lat Pulldown CAD](https://github.com/user-attachments/assets/5823a719-b2a0-43d0-a96b-abd1dfee352e)  
-*A CAD model of a gym lat pulldown machine, showcasing structural design and ergonomic considerations.*  
+### Electric Assisted Pull Up Tower (In Development)
 
-- Designed in Siemens NX  
-- Includes part and assembly files  
-- Focused on manufacturability and strength under load  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/148634a5-ce5e-4fac-8a8c-cd61e3f6ebed" width="400" alt="Pull up tower design">
+  <br><em>Current design progress</em>
+</p>
 
-👉 [Download CAD Files (PDF)](https://github.com/user-attachments/files/21946512/rayma_Standard_Lat_Pulldown.pdf)  
+- Goal: a pull up tower with **digital assistance** modulated by a **computer vision system**
+- Currently in the design phase
+
+📄 **[Design & Build Log (PDF)](https://github.com/user-attachments/files/33894920/Pull.Up.Tower.pdf)**
+
+---
+
+### Luminescent Solar Concentrator (LSC) Heat Sink Design
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ddd85b5e-3d57-42de-9dd5-4343c79454e4" width="700" alt="Heat sink CAD">
+  <br><em>Thermal management system for photovoltaic cells in an LSC array</em>
+</p>
+
+- Designed a **liquid-cooled microchannel heat sink** to keep PV cells below **35 °C** at 1000 W/m² irradiance
+- Achieved target cooling with **<5% pumping power overhead**
+- Combined thermal analysis, heat exchanger design, and CAD modeling
+- Report includes the CAD model and installation schematic
+
+📄 **[Full Report (PDF)](https://github.com/user-attachments/files/21946424/HT_Project_Report.pdf)**
+
+---
+
+### Osteoarthritis Wrist Brace
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/66067891-428e-48ee-9fd5-fe2b31420d2f" width="600" alt="Osteoarthritis wrist brace">
+</p>
+
+- Developed the user interface on an **Arduino Uno** to control the brace's **heating, cooling, and compression**
+
+📄 **[Final Report (PDF)](https://github.com/user-attachments/files/33895072/Final.Memo-.MS.3_.pdf)**
+
 ---
 
 ### Chest Supported Row (CAD)
-![Chest Supported Row](https://github.com/user-attachments/assets/8ace7913-90ea-4dbb-a190-867f64bce139) 
-*A CAD model of a chest supported t-bar row, showcasing structural design and ergonomic considerations.*  
 
-- Designed in Siemens NX  
-- Includes part and assembly files  
-- Focused on adjustability and functionality
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8ace7913-90ea-4dbb-a190-867f64bce139" width="700" alt="Chest supported T-bar row CAD">
+  <br><em>Chest supported T-bar row, showcasing structural design and ergonomics</em>
+</p>
 
-👉 [rayma_chest_supported_row.pdf](https://github.com/user-attachments/files/21992014/rayma_chest_supported_row.pdf)  
+- Designed in **Siemens NX**, with part and assembly files
+- Focused on **adjustability** and functionality
 
-### Luminescent Solar Concentrator (LSC) Heat Sink Design
-![Heat Sink CAD](https://github.com/user-attachments/assets/ddd85b5e-3d57-42de-9dd5-4343c79454e4)  
-*Thermal management system for photovoltaic cells in a luminescent solar concentrator (LSC) array.*  
-
-- Designed a **liquid-cooled microchannel heat sink** to keep PV cells below 35 °C under 1000 W/m² solar irradiance  
-- Achieved target cooling with **<5% pumping power overhead**  
-- CAD model + installation schematic included in project report  
-- Combined thermal analysis, heat exchanger design, and CAD modeling  
-
-👉 [Read Full Report (PDF)](https://github.com/user-attachments/files/21946424/HT_Project_Report.pdf)  
+📄 **[Design Document (PDF)](https://github.com/user-attachments/files/21992014/rayma_chest_supported_row.pdf)**
 
 ---
 
-## 📫 Contact
-- [LinkedIn](https://www.linkedin.com/in/raymond-maney/)  
-- [GitHub](https://github.com/maneyr)  
-- [Email](mailto:maneyr@rpi.edu)
+## Contact
 
----
+- **LinkedIn:** [raymond-maney](https://www.linkedin.com/in/raymond-maney/)
+- **GitHub:** [maneyr](https://github.com/maneyr)
+- **Email:** [maneyr@rpi.edu](mailto:maneyr@rpi.edu)
