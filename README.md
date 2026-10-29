@@ -31,10 +31,18 @@ I'm a mechanical and aeronautical engineering student interested in aircraft des
 
 ### Long Range Autonomous Drone
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/141ad13c-eb98-4c5b-b632-01a14668e4ba" width="700" alt="8 inch quadcopter drone">
-  <br><em>8-inch quadcopter with obstacle avoidance sensors and a gesture-controlled grabber</em>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/ba077f3d-7d28-4329-90d0-89b2ab3bd72b" width="320" alt="8 inch offshore fishing drone"><br>
+      <em>Offshore fishing drone</em>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/f153279e-ef32-4064-ba61-2347ed81418e" width="320" alt="Glove with flex sensor transmitter"><br>
+      <em>Glove-side flex sensor transmitter</em>
+    </td>
+  </tr>
+</table>
 
 - Designed in **Siemens NX** and validated with **SimScale** and **FreeFEM**
 - Integrated **ultrasonic sensors** for landing and obstacle avoidance
